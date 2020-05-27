@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string-array name="Weight">
+
+        <item>in kg</item>
+        <item>in lbs</item>
+    </string-array>
+
+    <string-array name="Height">
+
+        <item>in m</item>
+        <item>in cm</item>
+        <item>in inches</item>
+
+    </string-array>
+
+</resources>
